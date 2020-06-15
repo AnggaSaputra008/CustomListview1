@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomListview1</string>
+    <string name="title_activity_row_list">row_list</string>
+</resources>
